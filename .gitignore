@@ -1,2 +1,7 @@
-.env
-output
+*.env
+*.md
+ai-search-multi-index\.env
+ai-search-samples\.env
+
+ai-search-multi-index\multi-index.ipynb
+

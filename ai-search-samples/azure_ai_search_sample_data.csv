@@ -1,0 +1,17 @@
+First Name,Last Name,Date of Birth,Reference Number,Company Name,Suffix,Joint Account Names
+John,Smith,15.06.1985,REF001,,,
+John Michael David,Smith,22.09.1978,REF002,,,
+Jean-Pierre,Dubois,06.07.1990,REF003,,,
+Hans,Müller,12.03.1982,REF004,,,
+Maria,Schmidt,08.11.1995,REF005,,,
+Thomas,Weber,30.04.1988,REF006,,,
+Anna,Johnson,17.12.1992,REF007,,,
+Robert,Williams,25.01.1980,REF008,,,
+,,,REF101,TechCorp,AG,
+,,,REF102,SwissCorp,GmbH,
+,,,REF103,GlobalTech,Aktiengesellschaft,
+,,,REF104,DataSolutions,Ltd,
+,,,REF201,,,Marta Schwarz & Peter Meier
+,,,REF202,,,Thomas Weber & Anna Johnson
+,,,REF203,,,Jean-Pierre Dubois & Maria Schmidt
+,,,REF204,,,Robert Williams & Hans Müller

@@ -1,0 +1,21 @@
+id,title,content,timestamp,@search.score
+fin-001,Cloud Security in Banking,Overview of cloud security best practices for financial institutions.,2025-09-30T10:00:00Z,2.1
+fin-002,Investment Strategy 2025,Analysis of investment strategies for the upcoming year.,2025-09-29T09:00:00Z,1.8
+fin-003,Risk Management Framework,Comprehensive risk assessment and mitigation strategies for portfolio management.,2025-09-28T14:30:00Z,2.0
+fin-004,Cloud Migration for Trading Systems,Security considerations for migrating high-frequency trading systems to cloud.,2025-09-27T11:15:00Z,2.2
+fin-005,Regulatory Compliance Report,Annual compliance report covering Basel III and cloud security requirements.,2025-09-26T09:45:00Z,1.9
+fin-006,Cloud Cost Optimization,Strategies to reduce cloud infrastructure costs while maintaining security.,2025-09-25T16:20:00Z,1.7
+fin-007,Cybersecurity Incident Response,Incident response procedures for cloud-based financial systems.,2025-09-24T13:30:00Z,2.3
+fin-008,Digital Asset Security,Security protocols for cryptocurrency and digital asset management.,2025-09-23T10:10:00Z,2.1
+fin-009,Cloud Data Encryption,End-to-end encryption strategies for sensitive financial data in cloud.,2025-09-22T15:45:00Z,2.4
+fin-010,Market Risk Analysis,Cloud-based analytics for real-time market risk assessment.,2025-09-21T08:30:00Z,1.8
+fin-011,Treasury Operations Security,Security best practices for cloud-based treasury management systems.,2025-09-20T12:00:00Z,2.0
+fin-012,Fraud Detection with AI,Machine learning models for detecting fraudulent transactions in cloud.,2025-09-19T14:15:00Z,2.2
+fin-013,Cloud Disaster Recovery,Business continuity planning for cloud infrastructure failures.,2025-09-18T09:30:00Z,2.1
+fin-014,Third-Party Risk Management,Assessing security risks of cloud service providers and vendors.,2025-09-17T11:45:00Z,1.9
+fin-015,Identity and Access Management,IAM strategies for cloud-based banking applications.,2025-09-16T13:20:00Z,2.3
+fin-016,Cloud Security Compliance Audit,Results of annual cloud security compliance audit.,2025-09-15T10:00:00Z,2.0
+fin-017,API Security for Banking,Securing RESTful APIs for cloud-based banking services.,2025-09-14T15:30:00Z,2.2
+fin-018,Cloud Network Segmentation,Network security architecture for multi-tenant cloud environments.,2025-09-13T08:45:00Z,2.1
+fin-019,Security Operations Center,24/7 SOC operations for monitoring cloud infrastructure.,2025-09-12T12:30:00Z,1.9
+fin-020,Cloud Security Training Program,Annual security awareness training for finance professionals.,2025-09-11T14:00:00Z,1.8

@@ -1,0 +1,21 @@
+id,title,content,timestamp,@search.score
+eng-001,Cloud Security Architecture,Technical deep dive into cloud security architecture.,2025-09-30T11:00:00Z,2.5
+eng-002,AI Model Optimization,Best practices for optimizing AI models in production.,2025-09-26T06:00:00Z,1.9
+eng-003,Kubernetes Security Hardening,Security best practices for containerized applications in cloud.,2025-09-29T13:30:00Z,2.3
+eng-004,Cloud Infrastructure as Code,Secure IaC practices using Terraform and Azure Bicep.,2025-09-28T15:45:00Z,2.1
+eng-005,Zero Trust Network Architecture,Implementing zero trust security model in cloud environments.,2025-09-27T09:20:00Z,2.4
+eng-006,Cloud Native Security Tools,Evaluation of security tools for cloud-native applications.,2025-09-26T11:00:00Z,2.2
+eng-007,Microservices Security Patterns,Security design patterns for microservices architecture.,2025-09-25T14:30:00Z,2.0
+eng-008,Cloud Monitoring and Alerting,Real-time security monitoring for cloud infrastructure.,2025-09-24T10:15:00Z,2.3
+eng-009,Container Image Scanning,Automated vulnerability scanning for Docker images.,2025-09-23T12:45:00Z,2.2
+eng-010,Cloud API Gateway Security,Securing API gateways with rate limiting and authentication.,2025-09-22T08:30:00Z,2.1
+eng-011,Cloud Database Encryption,Encryption at rest and in transit for cloud databases.,2025-09-21T14:00:00Z,2.4
+eng-012,DevSecOps Pipeline,Integrating security into CI/CD pipelines for cloud deployments.,2025-09-20T10:30:00Z,2.5
+eng-013,Cloud Load Balancer Security,Security configurations for Azure Load Balancer and App Gateway.,2025-09-19T13:15:00Z,2.1
+eng-014,Secret Management in Cloud,Using Azure Key Vault for secure secret storage and rotation.,2025-09-18T09:45:00Z,2.3
+eng-015,Cloud Security Logging,Centralized logging and SIEM integration for security events.,2025-09-17T11:30:00Z,2.2
+eng-016,Cloud Penetration Testing,Annual penetration testing results for cloud infrastructure.,2025-09-16T15:00:00Z,2.0
+eng-017,Cloud Backup and Recovery,Secure backup strategies for cloud data protection.,2025-09-15T08:20:00Z,1.9
+eng-018,Cloud Network Security Groups,Configuring NSGs and firewall rules for cloud security.,2025-09-14T10:45:00Z,2.1
+eng-019,Cloud Security Automation,Automating security compliance checks with Azure Policy.,2025-09-13T12:30:00Z,2.3
+eng-020,Cloud Vulnerability Management,Continuous vulnerability assessment for cloud workloads.,2025-09-12T14:15:00Z,2.2

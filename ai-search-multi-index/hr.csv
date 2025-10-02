@@ -1,0 +1,21 @@
+id,title,content,timestamp,@search.score
+hr-001,Cloud Security Training,Mandatory cloud security training for all employees.,2025-09-28T08:00:00Z,2.3
+hr-002,Remote Work Policy,Updated remote work policy for 2025.,2025-09-27T07:00:00Z,1.7
+hr-003,Employee Onboarding Security,Security protocols and training for new employee cloud access.,2025-09-26T10:30:00Z,2.0
+hr-004,Data Privacy Training,GDPR and data privacy compliance training for HR cloud systems.,2025-09-25T14:15:00Z,2.2
+hr-005,Cloud Collaboration Tools,Security guidelines for using Microsoft Teams and cloud collaboration.,2025-09-24T09:45:00Z,1.9
+hr-006,Performance Management System,Cloud-based performance review system with security controls.,2025-09-23T11:20:00Z,1.8
+hr-007,Security Awareness Campaign,Monthly security awareness campaign for all staff members.,2025-09-22T13:00:00Z,2.1
+hr-008,Cloud Access Management,Employee lifecycle management for cloud application access.,2025-09-21T15:30:00Z,2.3
+hr-009,HR Data Protection,Protecting sensitive employee data in cloud HR systems.,2025-09-20T08:15:00Z,2.4
+hr-010,Phishing Prevention Training,Security training to prevent phishing attacks targeting employees.,2025-09-19T10:45:00Z,2.2
+hr-011,Cloud Benefits Portal,Secure access to employee benefits through cloud portal.,2025-09-18T12:30:00Z,1.9
+hr-012,Security Incident Reporting,How to report security incidents and suspicious activity.,2025-09-17T14:00:00Z,2.1
+hr-013,Mobile Device Security Policy,BYOD and mobile device security policy for cloud access.,2025-09-16T09:15:00Z,2.0
+hr-014,Password Management Best Practices,Employee guidelines for creating and managing secure passwords.,2025-09-15T11:45:00Z,2.2
+hr-015,Cloud Email Security,Email security best practices and anti-phishing measures.,2025-09-14T13:20:00Z,2.3
+hr-016,Employee Exit Procedures,Security checklist for employee offboarding and access revocation.,2025-09-13T15:00:00Z,2.1
+hr-017,Security Certification Program,Professional security certifications for HR technology team.,2025-09-12T08:30:00Z,1.8
+hr-018,Cloud Payroll Security,Security controls for cloud-based payroll processing systems.,2025-09-11T10:15:00Z,2.0
+hr-019,Social Engineering Awareness,Training on recognizing and avoiding social engineering attacks.,2025-09-10T12:45:00Z,2.2
+hr-020,HR Analytics Security,Data security for people analytics and workforce cloud platforms.,2025-09-09T14:30:00Z,1.9
